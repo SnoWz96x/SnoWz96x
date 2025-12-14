@@ -71,5 +71,15 @@ I value continuous learning and enjoy sharing knowledge while contributing to th
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SnoWz96x&layout=compact&theme=github_dark" />
 </p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/SnoWz96x/SnoWz96x/output/pacman-contribution-graph-dark.svg?sanitize=true">
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/SnoWz96x/SnoWz96x/output/pacman-contribution-graph.svg?sanitize=true">
+    <img alt="pacman contribution graph"
+      src="https://raw.githubusercontent.com/SnoWz96x/SnoWz96x/output/pacman-contribution-graph.svg?sanitize=true">
+  </picture>
+</p>
 
 
