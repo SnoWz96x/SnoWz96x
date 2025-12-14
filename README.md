@@ -74,12 +74,10 @@ I value continuous learning and enjoy sharing knowledge while contributing to th
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/SnoWz96x/SnoWz96x/output/pacman-contribution-graph-dark.svg?sanitize=true">
+      srcset="https://raw.githubusercontent.com/SnoWz96x/SnoWz96x/output/pacman-contribution-graph-dark.svg?sanitize=true&v=2">
     <source media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/SnoWz96x/SnoWz96x/output/pacman-contribution-graph.svg?sanitize=true">
+      srcset="https://raw.githubusercontent.com/SnoWz96x/SnoWz96x/output/pacman-contribution-graph.svg?sanitize=true&v=2">
     <img alt="pacman contribution graph"
-      src="https://raw.githubusercontent.com/SnoWz96x/SnoWz96x/output/pacman-contribution-graph.svg?sanitize=true">
+      src="https://raw.githubusercontent.com/SnoWz96x/SnoWz96x/output/pacman-contribution-graph.svg?sanitize=true&v=2">
   </picture>
 </p>
-
-
