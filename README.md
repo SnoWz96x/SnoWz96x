@@ -66,23 +66,6 @@ I value continuous learning and enjoy sharing knowledge while contributing to th
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
 </div>
 
-<br />
-
-<div align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Radix_UI-161618?style=for-the-badge&logo=radix-ui&logoColor=white" alt="Radix UI" />
-  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" />
-  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-  <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" alt="Electron" />
-  <img src="https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white" alt="Bun" />
-  <img src="https://img.shields.io/badge/Upstash-00E9A3?style=for-the-badge&logo=upstash&logoColor=black" alt="Upstash" />
-</div>
-
 ---
 
 ## 🌐 Projetos publicados | Published Projects
@@ -91,17 +74,25 @@ I value continuous learning and enjoy sharing knowledge while contributing to th
   <tr>
     <td align="center" width="50%">
       <a href="https://www.fisg.fish">
-        <img src="https://img.shields.io/badge/FISG-www.fisg.fish-0aa2ff?style=for-the-badge&logo=vercel&logoColor=white" alt="FISG" />
+        <img src="https://www.fisg.fish/brand/fisg-wordmark.png" height="74" alt="FISG logo" />
       </a>
       <br />
-      <sub>Aplicação web publicada em produção</sub>
+      <a href="https://www.fisg.fish">
+        <img src="https://img.shields.io/badge/Acessar-www.fisg.fish-0aa2ff?style=for-the-badge&logo=vercel&logoColor=white" alt="Acessar FISG" />
+      </a>
+      <br />
+      <sub><b>FISG</b> · aplicação web publicada em produção</sub>
     </td>
     <td align="center" width="50%">
       <a href="https://assoprafitas.vercel.app">
-        <img src="https://img.shields.io/badge/ASSOPRA_FITAS-assoprafitas.vercel.app-7c3aed?style=for-the-badge&logo=vercel&logoColor=white" alt="ASSOPRA FITAS" />
+        <img src="https://assoprafitas.vercel.app/icon.svg" height="74" alt="ASSOPRA FITAS logo" />
       </a>
       <br />
-      <sub>Arcade web publicado na Vercel</sub>
+      <a href="https://assoprafitas.vercel.app">
+        <img src="https://img.shields.io/badge/Acessar-assoprafitas.vercel.app-7c3aed?style=for-the-badge&logo=vercel&logoColor=white" alt="Acessar ASSOPRA FITAS" />
+      </a>
+      <br />
+      <sub><b>ASSOPRA FITAS</b> · arcade web publicado na Vercel</sub>
     </td>
   </tr>
 </table>
@@ -118,11 +109,6 @@ I value continuous learning and enjoy sharing knowledge while contributing to th
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SnoWz96x&theme=github_dark" alt="github profile summary" />
-</p>
-
-<p align="center">
-  <img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SnoWz96x&theme=github_dark" alt="repos per language" />
-  <img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SnoWz96x&theme=github_dark" alt="most commit language" />
 </p>
 
 <p align="center">
