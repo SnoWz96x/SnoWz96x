@@ -92,7 +92,7 @@ I value continuous learning and enjoy sharing knowledge while contributing to th
         <img src="https://img.shields.io/badge/Acessar-www.assoprafitas.com.br-7c3aed?style=for-the-badge&logo=vercel&logoColor=white" alt="Acessar ASSOPRA FITAS" />
       </a>
       <br />
-      <sub><b>ASSOPRA FITAS</b> · arcade web publicado em domínio próprio</sub>
+      <sub><b>ASSOPRA FITAS</b> · domínio próprio</sub>
     </td>
   </tr>
   <tr>
