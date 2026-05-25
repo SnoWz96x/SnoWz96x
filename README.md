@@ -95,6 +95,18 @@ I value continuous learning and enjoy sharing knowledge while contributing to th
       <sub><b>ASSOPRA FITAS</b> · arcade web publicado na Vercel</sub>
     </td>
   </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <br />
+      <a href="https://github.com/SnoWz96x/ChessIA">
+        <img src="https://img.shields.io/badge/♟️_ChessBot_/_ChessIA-Instalar_pelo_GitHub-0aa2ff?style=for-the-badge&logo=github&logoColor=white" alt="ChessBot / ChessIA" />
+      </a>
+      <br />
+      <sub><b>ChessBot / ChessIA</b> · projeto instalado diretamente pelo GitHub</sub>
+      <br />
+      <code>git clone https://github.com/SnoWz96x/ChessIA.git</code>
+    </td>
+  </tr>
 </table>
 
 ---
