@@ -111,13 +111,17 @@ I value continuous learning and enjoy sharing knowledge while contributing to th
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SnoWz96x&theme=github_dark" alt="github profile summary" />
 </p>
 
+---
+
+## 🟡 Pac-Man Contributions
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/SnoWz96x/SnoWz96x/output/pacman-contribution-graph-dark.svg?sanitize=true&v=2">
+      srcset="https://raw.githubusercontent.com/SnoWz96x/SnoWz96x/output/pacman-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/SnoWz96x/SnoWz96x/output/pacman-contribution-graph.svg?sanitize=true&v=2">
+      srcset="https://raw.githubusercontent.com/SnoWz96x/SnoWz96x/output/pacman-contribution-graph.svg">
     <img alt="pacman contribution graph"
-      src="https://raw.githubusercontent.com/SnoWz96x/SnoWz96x/output/pacman-contribution-graph.svg?sanitize=true&v=2">
+      src="https://raw.githubusercontent.com/SnoWz96x/SnoWz96x/output/pacman-contribution-graph.svg">
   </picture>
 </p>
